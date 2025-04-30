@@ -51,7 +51,8 @@ The dashboard provides a **clear, interactive, and real-time view** of various K
 
 ## 📈 Dashboard Screenshots
 
-[> *(You can add screenshots here if you want to show the dashboard visuals!)*](https://github.com/Shivraj7100/Ecommerce_Sales_Analysis/blob/main/Screenshot%202023-10-05%20154737.png)
+![Dashboard Screenshot](sales_dashboard.png)![sales_dashboard png](https://github.com/user-attachments/assets/ce1c5820-9707-498a-9b12-193d65169ec4)
+
 
 ---
 
