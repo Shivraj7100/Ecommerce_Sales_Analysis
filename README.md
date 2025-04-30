@@ -51,7 +51,7 @@ The dashboard provides a **clear, interactive, and real-time view** of various K
 
 ## 📈 Dashboard Screenshots
 
-![Dashboard Screenshot](sales_dashboard.png)![sales_dashboard png](https://github.com/user-attachments/assets/ce1c5820-9707-498a-9b12-193d65169ec4)
+(sales_dashboard.png)![sales_dashboard png](https://github.com/user-attachments/assets/ce1c5820-9707-498a-9b12-193d65169ec4)
 
 
 ---
